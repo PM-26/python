@@ -1,5 +1,5 @@
-list = [1,2,3,4,5,]
-list2 = [7,8,9,10]
+list = [1, 2, 3, 4, 5,]
+list2 = [7, 8, 9, 10]
 print(f"List : {list} ")
 print(f"List2 : {list2} ")
 print("\n")
@@ -19,5 +19,5 @@ print(f"Count : {list.count(1)}")
 print(f"Reverse : {list.reverse()}")
 print(f"Sort : {list.sort()}")
 print(f"Index of 0 : {list.index(0)}")
-list3=list.copy()
+list3 = list.copy()
 print(f"Copy first list into another and print it : {list3}")
