@@ -9,4 +9,3 @@ username=email[:split]
 domain=email[split:]
 tuple=(username,domain)
 print(tuple)
-
