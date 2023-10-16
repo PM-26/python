@@ -1,4 +1,4 @@
-#(d,m,y)
+#(y,m,d)
 # write a program to create 2 date tuples and find the number of days b/w the 2 dates
 
 from datetime import date
